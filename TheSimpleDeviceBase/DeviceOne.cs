@@ -19,5 +19,7 @@ namespace TheSimpleDeviceBase
         public string Commit3Of3 { get; }
         
         public string Commit1Of32 { get; }
+        
+        public string Commit2Of32 { get; }
     }
 }
